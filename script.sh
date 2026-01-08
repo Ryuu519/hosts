@@ -19,3 +19,5 @@ do
     
     verificare_ip_dns "$name" "$ip" "8.8.8.8"
 done
+
+echo " HAHA ti-am schimbat codu" 
